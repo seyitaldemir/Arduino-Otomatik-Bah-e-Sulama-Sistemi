@@ -7,7 +7,9 @@
     <li><a href="#bağlantı-şeması">Bağlantı Şeması</a></li>
     <li><a href="#kurulum">Kurulum</a></li>
     <li><a href="#kullanım">Kullanım</a></li>
-    <li><a href="#lisans">Lisans</a></li>
+    <li><a href="#role-devre-semasi">Röle Devre Şeması</a></li>
+    <li><a href="#calisma-videosu">Çalışma Videosu</a></li>
+    <li><a href="#baglanti-videosu">Bağlantı Videosu</a></li>
 </ul>
 
 <h2 id="gereksinimler">Gereksinimler</h2>
@@ -114,11 +116,11 @@ int nemSeviyesiniOlc() {
     <li>Nem seviyesi belirlenen eşiğin üstünde olduğunda, röle modülü su pompasını aktif hale getirecektir.</li>
     <li>Nem seviyesi eşiğin altına düştüğünde, röle modülü su pompasını kapatacaktır.</li>
 </ol>
-<h2 id="lisans">Röle Devre Şeması</h2>
+<h2 id="role-devre-semasi">Röle Devre Şeması</h2>
 <img src="role-cizim.jpg" />
-<h2 id="lisans">Çalışma Videosu</h2>
-<video src="https://github.com/seyitaldemir/Arduino-Otomatik-Bah-e-Sulama-Sistemi/assets/29175548/9cefc900-540e-48ce-a17b-4f0a93357599" width="180" />
-<h2 id="lisans">Bağlantı Videosu</h2>
-<video src="https://github.com/seyitaldemir/Arduino-Otomatik-Bah-e-Sulama-Sistemi/assets/29175548/669399d4-ec96-4173-9e2f-86be9d2caea0" width="180"/>
-<h2 id="lisans">Lisans</h2>
-<p>Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için <code>LICENSE</code> dosyasına bakın.</p>
+<h2 id="calisma-videosu">Çalışma Videosu</h2>
+https://github.com/seyitaldemir/Arduino-Otomatik-Bah-e-Sulama-Sistemi/assets/29175548/9cefc900-540e-48ce-a17b-4f0a93357599
+<h2 id="baglanti-videosu">Bağlantı Videosu</h2>
+https://github.com/seyitaldemir/Arduino-Otomatik-Bah-e-Sulama-Sistemi/assets/29175548/669399d4-ec96-4173-9e2f-86be9d2caea0
+
+Destek almak için seyit.aldemirr@gmail.com adresine e-posta gönderebilirsiniz.
